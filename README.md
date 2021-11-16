@@ -18,3 +18,4 @@
 <img align="center" alt="html5"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 
+Apaixonado pro tecnologia, educação e por mudar a vida das pessoas atrevé da programação.
