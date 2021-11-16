@@ -9,6 +9,7 @@
 
 
 
+
 ### Tecnologias que uso no meu dia. 
 
 <div style="display: inline_block"><br/> 
@@ -19,10 +20,10 @@
 <img align="center" alt="html5"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img align="center" alt="html5"src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" alt="html5"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>
-</div>
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=herodotosouza&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/herodotosouza/herodotosouza/blob/output/github-contribution-grid-snake.svg)
+
 
 Apaixonado pro tecnologia, educação e por mudar a vida das pessoas atrevé da programação.
 
