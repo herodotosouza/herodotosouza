@@ -25,5 +25,5 @@
 
 
 
-Apaixonado por tecnologias, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologias, educação e por mudar a vida das pessoas através da programação, sempre preparado para as novas tecnologias que surgirem...
 
